@@ -1,0 +1,1 @@
+{'score': 5, 'player_name': 'Lisa', 'date': "<module 'datetime' from 'C:\\\\Users\\\\saturn\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python37-32\\\\lib\\\\datetime.py'>"}
